@@ -399,3 +399,4 @@ FodyWeavers.xsd
 *.xml
 .iml
 .idea
+/.idea/
